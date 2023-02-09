@@ -1,4 +1,5 @@
-# Repositório do desafio de projeto sobre GIT/GITHUB da DIO. 
+Desafio de projeto sobre GIT/GITHUB da DIO. 
+Repositório criado para o Desafio de Projeto
 Desafio proposto no bootcamp "linux do zero"
 
 ## Links úteis
